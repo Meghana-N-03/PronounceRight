@@ -1,4 +1,4 @@
-
+**Feedbacks received on PronounceRight**
 In addition to the experimental outcomes, the feedback received from users and students in the field was overwhelmingly positive and validated the system’s practical effectiveness. Language learners, in particular, praised the model’s real-time feedback mechanism for its precision and utility in improving pronunciation. The system’s ability to identify subtle phoneme-level discrepancies and provide actionable correction suggestions was noted as a standout feature, making it a valuable tool for both self-paced and instructor-guided learning.
 
 Educators in the field of linguistics emphasized how the system bridges a significant gap in pronunciation training tools, particularly for non-native speakers. By leveraging deep learning and Edit Distance algorithms, the system not only addresses the detection of mispronunciations but also facilitates meaningful corrections both in visual and speech form, a feature that is often missing in conventional tools. The seamless integration of IPA-based phoneme sequences into the model was lauded for its adaptability across various learning contexts.
