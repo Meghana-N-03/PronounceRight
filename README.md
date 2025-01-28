@@ -41,7 +41,7 @@ This project introduces a framework for detecting and correcting mispronunciatio
 
 
 2. **Real-Time Feedback**
-   feedback when the word is pronounced right 
+  * feedback when the word is pronounced right (Visual output)
    ![image](https://github.com/user-attachments/assets/07a8440a-8a61-434f-94b3-ab13a02daa76)
 
    feedback when the word is mispronounced
@@ -50,7 +50,7 @@ This project introduces a framework for detecting and correcting mispronunciatio
 
 
 3. **Correction Suggestions**
-    speech output to listen correct pronunciation and download the same 
+    *speech output to listen to the correct pronunciation and download the same for future reference. 
    
    ![image](https://github.com/user-attachments/assets/84e7bf88-6f73-4d02-80ce-d78451cdc233)
    ![image](https://github.com/user-attachments/assets/b4f9f9f3-686b-4324-8c3c-6a2c12bc5e66)
@@ -62,7 +62,7 @@ This project introduces a framework for detecting and correcting mispronunciatio
 ---
 
 ### **How It Works**
-1. **Input**: Users provide a phoneme sequence (in IPA format).  
+1. **Input**: User uploads a audio file.  
 2. **Detection**: The BiLSTM model identifies any discrepancies at the phoneme level.  
 3. **Correction**: The system uses Edit Distance algorithms to propose accurate phoneme sequences.  
 4. **Output**: Users receive corrections in both visual and speech formats.
