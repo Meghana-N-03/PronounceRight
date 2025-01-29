@@ -29,12 +29,15 @@ This project introduces a framework for detecting and correcting mispronunciatio
 
 1. **Main Interface**
    
-   ![image](https://github.com/user-attachments/assets/1175d718-e914-4008-a8d2-1a2145d6ac09)
+  ![Screenshot 2025-01-28 204423](https://github.com/user-attachments/assets/46b04c7b-e9a0-4962-87e2-79a10e8fbb75)
+
    when the word is pronounced right 
-   ![image](https://github.com/user-attachments/assets/c613fb76-72f1-4b0c-8301-3767d2bc850f)
+![Screenshot 2025-01-28 204622](https://github.com/user-attachments/assets/2da717be-fb95-40e3-a143-2f0ea05efc76)
+
 
    when the word is mispronounced
-   ![image](https://github.com/user-attachments/assets/c6e9dcdb-40fa-412f-9b23-3dec9a8e8004)
+  ![Screenshot 2025-01-28 205758](https://github.com/user-attachments/assets/d3baf5f5-ec94-47dc-8b15-3ca6094ab466)
+
 
   
 
@@ -43,11 +46,13 @@ This project introduces a framework for detecting and correcting mispronunciatio
 2. **Real-Time Feedback**
   * feedback when the word is pronounced right (Visual output)
     
-   ![image](https://github.com/user-attachments/assets/07a8440a-8a61-434f-94b3-ab13a02daa76)
+  ![Screenshot 2025-01-28 204644](https://github.com/user-attachments/assets/f215d8c7-3e18-4e19-998e-4a88851b1860)
+
 
    feedback when the word is mispronounced
    
-   ![image](https://github.com/user-attachments/assets/36d5322a-a618-4306-9b55-548e66136dcc)
+ ![Screenshot 2025-01-28 205412](https://github.com/user-attachments/assets/ca59a321-ea79-472d-9644-b2ffd666b940)
+
 
 
 
