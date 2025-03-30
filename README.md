@@ -6,13 +6,13 @@ Mispronunciation detection and correction play a vital role in speech recognitio
 This project introduces a framework for detecting and correcting mispronunciations in phonetic sequences, specifically tailored for an American English accent. The system utilizes **phonemic representations in the International Phonetic Alphabet (IPA)** and employs a two-step process:
 
 1. **Detection**: A deep learning model, **Bidirectional Long Short-Term Memory (BiLSTM)**, identifies phoneme-level discrepancies within the input sequence.  
-2. **Correction**: Once a mispronunciation is detected, an **Edit Distance-based algorithm** suggests the most likely corrected phoneme sequence.  
+2. **Correction**: Once a mispronunciation is detected, an **Bidirectional Long Short-Term Memory (BiLSTM)** suggests the most likely corrected phoneme sequence.  
 
 ---
 
 ### **Key Features**
 - **High Detection Accuracy**: The BiLSTM model achieves an impressive accuracy of **90.98%** in detecting mispronunciations.  
-- **Efficient Correction**: The Edit Distance correction algorithm provides accurate phoneme corrections, with a success rate of **86.9%**.  
+- **Efficient Correction**: The  BiLSTM model provides accurate phoneme corrections, with a success rate of **72%**.  
 - **Visual and Audio Feedback**: The system delivers corrections through both visual and speech outputs, enabling users to learn new pronunciations more effectively.  
 
 ---
@@ -72,7 +72,7 @@ This project introduces a framework for detecting and correcting mispronunciatio
 ### **How It Works**
 1. **Input**: User uploads a audio file.  
 2. **Detection**: The BiLSTM model identifies any discrepancies at the phoneme level.  
-3. **Correction**: The system uses Edit Distance algorithms to propose accurate phoneme sequences.  
+3. **Correction**: The system uses  BiLSTM model to propose accurate phoneme sequences.  
 4. **Output**: Users receive corrections in both visual and speech formats.
 
 
