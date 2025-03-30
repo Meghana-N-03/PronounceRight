@@ -14,7 +14,7 @@ for its innovative features and impactful results.
 
 ### 2. **Educators and Linguists**
 - **Bridging a Gap**: Educators emphasized how the system addresses a significant gap in pronunciation training tools, especially for non-native speakers.  
-- **Advanced Algorithms**: The use of deep learning models (BiLSTM) combined with Edit Distance algorithms for detection and correction was highlighted as a unique and impactful feature.  
+- **Advanced Algorithms**: The use of deep learning models (BiLSTM, Seq2Seq)  for detection and correction was highlighted as a unique and impactful feature.  
 - **Adaptability**: The seamless integration of IPA-based phoneme sequences was praised for its flexibility across diverse learning environments.
 
 ### 3. **Speech Therapy and Accent Reduction**
@@ -40,7 +40,7 @@ The system offers both visual and audio outputs, making it easier for users to l
 
 
 ## Conclusion
-**PronounceRight** stands out as a cutting-edge solution poised to revolutionize pronunciation training. Its innovative approach, combining BiLSTM models with Edit Distance algorithms, sets it apart as a highly accurate and effective tool.  
+**PronounceRight** stands out as a cutting-edge solution poised to revolutionize pronunciation training. Its innovative approach, utilizing BiLSTM models, sets it apart as a highly accurate and effective tool.  
 
 With a few key enhancements, the system can cater to a broader audience and establish itself as an indispensable resource for language learners, educators, and speech therapists worldwide.
 
